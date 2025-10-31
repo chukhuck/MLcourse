@@ -33,6 +33,8 @@ bld/
 [Oo]ut/
 [Ll]og/
 [Ll]ogs/
+env311/
+venv/
 
 # Build results on 'Bin' directories
 **/[Bb]in/*
