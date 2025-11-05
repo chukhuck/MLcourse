@@ -35,6 +35,7 @@ bld/
 [Ll]ogs/
 env311/
 venv/
+L16 Transfer learning/data/
 
 # Build results on 'Bin' directories
 **/[Bb]in/*
