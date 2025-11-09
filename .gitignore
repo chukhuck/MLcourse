@@ -36,7 +36,7 @@ bld/
 env311/
 venv/
 L16 Transfer learning/data/
-
+Data/
 
 *.h5
 # Build results on 'Bin' directories
