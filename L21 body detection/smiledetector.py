@@ -1,3 +1,8 @@
+import mediapipe as mp
+import shutil
+from pathlib import Path
+import cv2
+
 class SmileDetector:
     def __init__(self):
         self.mp_face_detection = mp.solutions.face_detection
